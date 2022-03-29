@@ -98,6 +98,7 @@ Put the name as `ProductsDb`.
 * Run `dotnet tool install --global dotnet-ef` to install dotnet-ef tool.
 * Run `dotnet add package Microsoft.EntityFrameworkCore.Design --version 5.0.5`.
 * Run `dotnet ef database update` to update the database.
+* Do `dotnet run` to run the project and navigate to https://localhost:5001/swagger/index.html.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
