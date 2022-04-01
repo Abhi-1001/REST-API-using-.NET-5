@@ -1,0 +1,202 @@
+D:\Internship\test\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship\test\bin\Debug\net5.0\appsettings.json
+D:\Internship\test\bin\Debug\net5.0\Catalog.exe
+D:\Internship\test\bin\Debug\net5.0\Catalog.deps.json
+D:\Internship\test\bin\Debug\net5.0\Catalog.runtimeconfig.json
+D:\Internship\test\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+D:\Internship\test\bin\Debug\net5.0\Catalog.dll
+D:\Internship\test\bin\Debug\net5.0\Catalog.pdb
+D:\Internship\test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship\test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship\test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\test\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+D:\Internship\test\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\test\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+D:\Internship\test\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+D:\Internship\test\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Internship\test\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\test\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\test\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+D:\Internship\test\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+D:\Internship\test\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+D:\Internship\test\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+D:\Internship\test\obj\Debug\net5.0\Catalog.dll
+D:\Internship\test\obj\Debug\net5.0\refint\Catalog.dll
+D:\Internship\test\obj\Debug\net5.0\Catalog.pdb
+D:\Internship\test\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\Internship\test\obj\Debug\net5.0\ref\Catalog.dll
+D:\Internship\test\bin\Debug\net5.0\Humanizer.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\test\bin\Debug\net5.0\Npgsql.dll
+D:\Internship\test\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Internship\test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship\test - Copy\bin\Debug\net5.0\appsettings.json
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.exe
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.deps.json
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.runtimeconfig.json
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Catalog.pdb
+D:\Internship\test - Copy\bin\Debug\net5.0\Humanizer.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Npgsql.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship\test - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+D:\Internship\test - Copy\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.dll
+D:\Internship\test - Copy\obj\Debug\net5.0\refint\Catalog.dll
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.pdb
+D:\Internship\test - Copy\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\Internship\test - Copy\obj\Debug\net5.0\ref\Catalog.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.exe
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.deps.json
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.runtimeconfig.json
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Catalog.pdb
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Automatonymous.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\GreenPipes.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\MassTransit.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\NewId.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Npgsql.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship\Fiinal\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.dll
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\refint\Catalog.dll
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.pdb
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\Internship\Fiinal\WebApi\obj\Debug\net5.0\ref\Catalog.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\appsettings.json
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.exe
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.deps.json
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.runtimeconfig.json
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.runtimeconfig.dev.json
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Catalog.pdb
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Automatonymous.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\GreenPipes.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\MassTransit.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\NewId.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Npgsql.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\RabbitMQ.Client.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.csproj.AssemblyReference.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.AssemblyInfoInputs.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.AssemblyInfo.cs
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\scopedcss\bundle\Catalog.styles.css
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\staticwebassets\Catalog.StaticWebAssets.Manifest.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.RazorTargetAssemblyInfo.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.csproj.CopyComplete
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\refint\Catalog.dll
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.pdb
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+D:\Internship\REST-API-using-.NET-5\WebApi\obj\Debug\net5.0\ref\Catalog.dll
