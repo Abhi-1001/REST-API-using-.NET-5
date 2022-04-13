@@ -30,6 +30,39 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Clean Architecture core building blocks are:
+- Application Core
+- Infrastructure
+- UI Application
+
+In general business, logic depends on the data access layer or infrastructure layer. But in clean architecture data access layers or infrastructure layers depend on the business logic layer (the Application Core).
+
+### Application Core:
+Application Core contains `Entities`, `DTOs`, `Interfaces`, and the `Business Logic`
+
+The `Domain` part of the project contains `Entities` (table entities) and the `Application` part of the project contains `DTOs`, `Interfaces`, `Business Logic`.
+
+The `Domain` part can be shared with other projects as well since it is the parent of layers.
+
+This is helpful when using the `Entities` (Driver, Car, Trip) in the Consumer / Producer Microservice.
+
+### Infrastructure:
+Infrastructure deals with `DataBases`. Infrastructure depends on the 'Interface' inside of the 'Application Core'.
+
+### UI Application:
+UI Application uses the `Application Core` to produce the results. UI Application does not depend on the infrastructure layer, but we refer the infrastructure layer into the UI project in the case of the services dependency injection. Used Swagger UI for the interaction with the ‘Application Core’.
+
+
+### Project Structure:
+
+| | |
+|---|---|
+|Catalog |Project for controllers, mapping between domain model and API model, API configuration   |
+|Catalog.Entities   |Project Entities (Models)  |
+|Catalog.Dtos   |Clients should not see or interact with Entities. So Dtos help in transferig data to/from remote (out of the process).   |
+|Catalog.Controllers  |Handles incoming HTTP requests and send response back to the caller |
+|Catalog.Repositories  |Hides the details of how exactly the data is saved or retrieved from the database. The details of how the data is stored and retrieved is in the respective repository for each entity |
+
 ### Driver Table Schema -
 
 |   |type   |nullable   |
@@ -70,8 +103,6 @@
 |Retrieve   |Get   |
 |Update   |Put   |
 |Delete   |Delete   |
-
-* Run `dotnet new webapi -n Catalog` to create the WebApi template.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
